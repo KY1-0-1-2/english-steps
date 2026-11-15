@@ -1,0 +1,63 @@
+{
+  "id": "junior-new-topic",
+  "level": "junior",
+  "order": 10,
+  "title": "新課程標題",
+  "minutes": 15,
+  "goals": [
+    "用 am / is / are 說明身分與狀態。"
+  ],
+  "vocabulary": [
+    {
+      "word": "student",
+      "meaning": "學生"
+    },
+    {
+      "word": "ready",
+      "meaning": "準備好的"
+    },
+    {
+      "word": "engineer",
+      "meaning": "工程師"
+    }
+  ],
+  "grammar": "主詞 I 用 am；he / she / it 用 is；you / we / they 用 are。否定句在 be 動詞後加 not。",
+  "examples": [
+    {
+      "en": "I am a student.",
+      "zh": "我是一名學生。"
+    },
+    {
+      "en": "They are ready.",
+      "zh": "他們準備好了。"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "She ___ a student.",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer": 1,
+      "explanation": "She 是第三人稱單數，搭配 is。"
+    },
+    {
+      "question": "選出正確否定句。",
+      "options": [
+        "I not am ready.",
+        "I am not ready.",
+        "I do not ready."
+      ],
+      "answer": 1,
+      "explanation": "be 動詞的否定句直接在 be 後面加 not。"
+    }
+  ],
+  "task": [
+    "用本課句型寫出兩句與自己生活或學習有關的英文。",
+    "讀出自己的句子，檢查動詞與時間是否一致。"
+  ],
+  "sources": [],
+  "sourceNote": "本站自編教學例句與練習；階段為內容導覽，不代表正式能力分級或檢定認證。"
+}
